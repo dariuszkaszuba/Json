@@ -1,0 +1,26 @@
+{
+  "version": "0.0.1",
+  "entries": [
+    {
+      "path": "C:\\test.txt",
+      "tags": [
+        "tag",
+        "document"
+      ]
+    },
+    {
+      "path": "C:\\test2.txt",
+      "tags": [
+        "tag",
+        "video"
+      ]
+    },
+    {
+      "path": "C:\\test3.txt",
+      "tags": [
+        "tag",
+        "docuedt"
+      ]
+    }
+  ]
+}

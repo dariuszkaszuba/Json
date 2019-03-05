@@ -1,4 +1,4 @@
-package pl.sda.jackson;
+package pl.sda.filemanager;
 
 import java.util.Objects;
 import java.util.Set;
@@ -21,6 +21,11 @@ public class FileEntry {
 
     public void setTags(Set<String> tags) {
         this.tags = tags;
+    }
+
+    public void addTag(String tag) {
+
+        tags.add(tag);
     }
 
     @Override
